@@ -4,6 +4,8 @@
 
 This template provisions a Postgres database and an Exograph server connected to it.
 
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/eMpJru?referralCode=tKfnpw)
+
 ## Getting Started
 
 Click the "Deploy on Railway" button!
